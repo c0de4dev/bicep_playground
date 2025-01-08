@@ -1,0 +1,17 @@
+name: bicep_playground
+id: ari:cloud:compass:09eaeae9-b2d3-4c52-8dba-8ff1da53ca15:component/1a0b726e-bed7-4cef-bc2d-06c47fa000d5/88c9dafa-9349-4e4c-86b0-d31ddb7d8de8
+description: BICEP CODE SAMPLES
+configVersion: 1
+typeId: CLOUD_RESOURCE
+ownerId: ari:cloud:identity::team/c7849d51-687f-49d0-a6dc-56d8856490f4
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/c0de4dev/bicep_playground
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
